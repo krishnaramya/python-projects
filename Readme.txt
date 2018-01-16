@@ -1,6 +1,5 @@
 
-Code Quality
-============
+## Code Quality
 
 We are dealing here different projects here and make sure we need to follow minimum code quality for all projects. Here list of things we need to follow
 
